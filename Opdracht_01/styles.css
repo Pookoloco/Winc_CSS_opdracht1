@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+
+body{
+    color: darkred; 
+    background-color: antiquewhite;  
+    font-family: Gluten, Helvetica, sans-serif;    
+}
+
+.black-border {
+  border: 5px solid black;
+}
+
+#bold {
+  font-size: 1.8em;
+  color: rgb(14, 64, 231);
+  font-weight: bold;
+}
+
+#green-font {
+color: green;
+border: 5px solid red;
+}
+
+.fontsize {
+  font-size: 28px;
+}    
+
+#hond {
+  color: crimson;
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.border {
+  font-size: 20px;
+  border: 5px solid blue
+}
+
+
